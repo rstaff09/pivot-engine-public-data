@@ -1,49 +1,43 @@
-{
+[{
     "task_title": HostWell Clean - 8.24.25: SF - Debra - Studio,
     "neighborhood": SF - Marina District,
     "travel_time": 28,
     "service_date": 2025-08-24T19:15:00.000-07:00,
     "project": Hostwell - August 2025
-  }
-{
+  }],[{
     "task_title": HostWell Clean - 8.24.25: SF - Devans - Studio,
     "neighborhood": SF - Glen Park,
     "travel_time": 0,
     "service_date": 2025-08-24T18:00:00.000-07:00,
     "project": Hostwell - August 2025
-  }
-{
+  }],[{
     "task_title": HostWell Clean - 8.24.25: SF - Jennifer Studio,
     "neighborhood": SF - Sunset,
     "travel_time": 28,
     "service_date": 2025-08-24T17:00:00.000-07:00,
     "project": Hostwell - August 2025
-  }
-{
+  }],[{
     "task_title": HostWell Clean - 8.24.25: SF - Ada,
     "neighborhood": SF - Richmond,
     "travel_time": 22,
     "service_date": 2025-08-24T16:00:00.000-07:00,
     "project": Hostwell - August 2025
-  }
-{
+  }],[{
     "task_title": HostWell Clean - 8.23.25: SF - Ashir - ROOM 3,
     "neighborhood": SF - Haight-Ashbury,
     "travel_time": 20,
     "service_date": 2025-08-23T14:00:00.000-07:00,
     "project": Hostwell - August 2025
-  }
-{
+  }],[{
     "task_title": HostWell Clean - 8.23.25: SF - Felix - Green Room,
     "neighborhood": SF - Castro,
     "travel_time": 30,
     "service_date": 2025-08-23T12:30:00.000-07:00,
     "project": Hostwell - August 2025
-  }
-{
+  }],[{
     "task_title": HostWell Clean - 8.22.25: OAK 14th West - UPPER,
     "neighborhood": OAK - West Oakland,
     "travel_time": 25,
     "service_date": 2025-08-22T17:00:00.000-07:00,
     "project": Hostwell - August 2025
-  }
+  }]
